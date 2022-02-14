@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Leture 12: Introduction to Protein Structure; Structure Comparison and Classification'
 uid: 0baf5c08-1fcd-02c0-9a07-bf670f4e710e

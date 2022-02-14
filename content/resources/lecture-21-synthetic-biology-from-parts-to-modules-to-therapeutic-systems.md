@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Synthetic Biology: From Parts to Modules to Therapeutic Systems'
 uid: 47a00b63-3ed0-e9eb-cb1e-e4acdbb45ea0

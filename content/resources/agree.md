@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: Agree.jpg
+type: OCWImage
 uid: 5047e5cd-f575-d539-f025-3d7f71ba0ff6
 ---
