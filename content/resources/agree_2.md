@@ -12,6 +12,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Image
 title: Agree_2.jpg
-type: OCWImage
 uid: 731d0a25-3e6f-432e-6dd0-2368c19d7af0
 ---

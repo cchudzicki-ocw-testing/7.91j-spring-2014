@@ -8,6 +8,5 @@ parent_title: Project
 parent_type: CourseSection
 resourcetype: Document
 title: Presentation Tips
-type: OCWFile
 uid: 73921058-1c47-ea8e-629b-b79bcb2ff2a9
 ---

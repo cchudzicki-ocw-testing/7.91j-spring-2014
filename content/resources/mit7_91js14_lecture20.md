@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 20: Human genetics, SNPs, and Genome Wide Associate Studies '
-type: OCWFile
 uid: 92a4c627-f490-ff52-01a9-900aa4e55dec
 ---

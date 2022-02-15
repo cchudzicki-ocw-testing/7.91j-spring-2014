@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture8: RNA-sequence analysis: expression, isoforms '
-type: OCWFile
 uid: 45a80bf1-9f88-d0ca-bfb0-91b4edbc0f36
 ---

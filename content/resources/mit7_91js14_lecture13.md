@@ -9,6 +9,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 13: Predicting Protein Structure '
-type: OCWFile
 uid: 30cc3343-57c3-64c0-c51c-5d261c409bbf
 ---

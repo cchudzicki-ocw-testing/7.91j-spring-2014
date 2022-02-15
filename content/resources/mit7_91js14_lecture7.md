@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture7: ChIP-Seq analysis; DNA-protein interactions '
-type: OCWFile
 uid: 53a07f80-af4d-4304-8443-44039d97775e
 ---

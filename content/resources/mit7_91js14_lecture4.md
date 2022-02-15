@@ -9,6 +9,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture4: Comparative Genomics'
-type: OCWFile
 uid: f00a4def-2b9e-0910-1482-5fa18eff4b0f
 ---

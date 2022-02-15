@@ -9,6 +9,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture6: Genome Assembly '
-type: OCWFile
 uid: e885f0eb-376e-a6c2-045e-b9d8847f106f
 ---

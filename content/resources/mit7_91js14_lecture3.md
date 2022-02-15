@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture3: Global Alignment of Protein Sequences'
-type: OCWFile
 uid: da347a08-31fd-95f9-f1da-da52f3c4a5a1
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 15: Gene Regulatory Networks'
-type: OCWFile
 uid: bfe8b1ce-4e57-d5ec-439d-07095ffaab18
 ---

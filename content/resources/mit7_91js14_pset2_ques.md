@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 2:Questions- BWT, Library complexity, RNA-seq, Genome assembly,
   Motifs, Multiple hypothesis testing
-type: OCWFile
 uid: 429b782e-48f7-9a33-a6ce-938e18f40d49
 ---

@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 3:Solutions- Gibbs Sampler, RNA secondary structure, Protein Structure
   with PyRosetta, Connections
-type: OCWFile
 uid: 5e4e88f6-7758-36fb-2a00-5efc079bedd3
 ---
