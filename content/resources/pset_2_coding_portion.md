@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-91j-founda
 file_type: application/zip
 learning_resource_types:
 - Assignments
+ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
