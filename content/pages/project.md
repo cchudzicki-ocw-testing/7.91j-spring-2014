@@ -21,7 +21,7 @@ Steps of the Project
 6.  [Presentation](#Presentation)
 7.  [Peer Review](#Peer_Review)
 
-The due dates of the steps are listed on the [calendar]({{< baseurl >}}/pages/calendar).
+The due dates of the steps are listed on the {{< resource_link e0132a76-e6c0-080d-ab50-1bcf6182bed2 "calendar" >}}.
 
 ### {{< anchor "Interests" >}}{{< /anchor >}}Interests
 
@@ -76,7 +76,7 @@ At the end of the term each team will present a short summary of their work. Gro
 
 These presentations will be graded by the instructors and comments will be provided by other students.
 
-*   [Presentation Tips (PDF)]({{< baseurl >}}/resources/mit7_91js14_present_tips)
+*   {{< resource_link 73921058-1c47-ea8e-629b-b79bcb2ff2a9 "Presentation Tips (PDF)" >}}
 
 ### {{< anchor "Peer_Review" >}}{{< /anchor >}}Peer Review
 

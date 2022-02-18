@@ -62,7 +62,7 @@ The different versions of this course have [different grading schemes]({{< baseu
 Student Information
 -------------------
 
-![On average, 64 students take this course each time it is offered.]({{< resource_file 0ef40722-4e93-59f2-7ee4-4b7b15160ded >}})
+{{< resource 0ef40722-4e93-59f2-7ee4-4b7b15160ded >}}
 
 ### Breakdown by Year
 
@@ -92,5 +92,5 @@ Met once a week for 1 hour per session. Optional attendance.
 Out of Class
 ------------
 
-*   Work on [assignments]({{< baseurl >}}/pages/assignments) and the [project]({{< baseurl >}}/pages/project).
+*   Work on {{< resource_link 215564a7-c7bc-a140-74c5-d9096008982b "assignments" >}} and the {{< resource_link 53ef1941-5287-4b4f-1e1e-3b94324eeb48 "project" >}}.
 *   Study for the exams.
