@@ -10,7 +10,7 @@ uid: 1f3d1984-e0db-6e25-65c7-313934369c19
 This textbook is recommended for the course:  
 Zvelebil, Marketa J., and Jeremy O. Baum. _Understanding Bioinformatics_. Garland Science, 2007. ISBN: 9780815340249. \[Preview with [Google books](http://books.google.com/books?id=dGayL_tdnBMC&printsec=frontcover)\]
 
-The instructors have also selected various texts as particularly useful in specific areas, if you are looking for more information. See the [textbook section on the syllabus]({{< baseurl >}}/pages/syllabus#textbook).
+The instructors have also selected various texts as particularly useful in specific areas, if you are looking for more information. See the {{< resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "textbook section on the syllabus" "#textbook" >}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -6,7 +6,7 @@ title: Project
 uid: 53ef1941-5287-4b4f-1e1e-3b94324eeb48
 ---
 
-Students in one of the graduate versions of this course will complete a computational biology research project. See the [table]({{< baseurl >}}/pages/syllabus#table) for clarification.
+Students in one of the graduate versions of this course will complete a computational biology research project. See the {{< resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "table" "#table" >}} for clarification.
 
 The project is designed to give you practice in applying computational methods to contemporary problems in biology. Students design and carry out projects working in a group or by themselves. There is [grading information](#Grading) below the steps of the project.
 
