@@ -6,7 +6,7 @@ title: Project
 uid: 53ef1941-5287-4b4f-1e1e-3b94324eeb48
 ---
 
-Students in one of the graduate versions of this course will complete a computational biology research project. See the {{< resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "table" "#table" >}} for clarification.
+Students in one of the graduate versions of this course will complete a computational biology research project. See the {{% resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "table" "#table" %}} for clarification.
 
 The project is designed to give you practice in applying computational methods to contemporary problems in biology. Students design and carry out projects working in a group or by themselves. There is [grading information](#Grading) below the steps of the project.
 
@@ -21,7 +21,7 @@ Steps of the Project
 6.  [Presentation](#Presentation)
 7.  [Peer Review](#Peer_Review)
 
-The due dates of the steps are listed on the {{< resource_link e0132a76-e6c0-080d-ab50-1bcf6182bed2 "calendar" >}}.
+The due dates of the steps are listed on the {{% resource_link e0132a76-e6c0-080d-ab50-1bcf6182bed2 "calendar" %}}.
 
 ### {{< anchor "Interests" >}}{{< /anchor >}}Interests
 
@@ -76,7 +76,7 @@ At the end of the term each team will present a short summary of their work. Gro
 
 These presentations will be graded by the instructors and comments will be provided by other students.
 
-*   {{< resource_link 73921058-1c47-ea8e-629b-b79bcb2ff2a9 "Presentation Tips (PDF)" >}}
+*   {{% resource_link 73921058-1c47-ea8e-629b-b79bcb2ff2a9 "Presentation Tips (PDF)" %}}
 
 ### {{< anchor "Peer_Review" >}}{{< /anchor >}}Peer Review
 

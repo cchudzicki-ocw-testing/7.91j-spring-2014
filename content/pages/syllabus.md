@@ -378,22 +378,22 @@ Gonick, Larry, and Woollcott Smith. _The Cartoon Guide to Statistics_. Paw Print
 Assignments
 -----------
 
-Five written or computer-based problem sets will be assigned. These are designed to promote deeper understanding of the principles and algorithms discussed in class and to provide hands-on experience with bioinformatics tools. The scripting language Python—which is widely used for bioinformatics and computational biology—will be used in the problem sets. More information is in the {{< resource_link 215564a7-c7bc-a140-74c5-d9096008982b "Assignments" >}} section.
+Five written or computer-based problem sets will be assigned. These are designed to promote deeper understanding of the principles and algorithms discussed in class and to provide hands-on experience with bioinformatics tools. The scripting language Python—which is widely used for bioinformatics and computational biology—will be used in the problem sets. More information is in the {{% resource_link 215564a7-c7bc-a140-74c5-d9096008982b "Assignments" %}} section.
 
 Exams
 -----
 
-There will be two 80–minute exams. The material covered on each exam is non-cumulative; consult the {{< resource_link e0132a76-e6c0-080d-ab50-1bcf6182bed2 "Calendar" >}} to see which topics were covered on each exam. There is no final exam.
+There will be two 80–minute exams. The material covered on each exam is non-cumulative; consult the {{% resource_link e0132a76-e6c0-080d-ab50-1bcf6182bed2 "Calendar" %}} to see which topics were covered on each exam. There is no final exam.
 
 Project
 -------
 
-Students in one of the graduate versions of this course will complete a computational biology research project. See the {{< resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "table" "#table" >}} for clarification. The project is designed to give you practice in applying computational methods to contemporary problems in biology. Students design and carry out projects working in a group or by themselves. All students will provide online feedback (peer review) on the presentations. More information is in the {{< resource_link 53ef1941-5287-4b4f-1e1e-3b94324eeb48 "Project" >}} section.
+Students in one of the graduate versions of this course will complete a computational biology research project. See the {{% resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "table" "#table" %}} for clarification. The project is designed to give you practice in applying computational methods to contemporary problems in biology. Students design and carry out projects working in a group or by themselves. All students will provide online feedback (peer review) on the presentations. More information is in the {{% resource_link 53ef1941-5287-4b4f-1e1e-3b94324eeb48 "Project" %}} section.
 
 {{< anchor "grade" >}}{{< /anchor >}}Grading
 --------------------------------------------
 
-The different versions of this course have different grading schemes. See the {{< resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "table" "#table" >}} for clarification. An additional 1% extra credit may be awarded for exceptional class participation.
+The different versions of this course have different grading schemes. See the {{% resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "table" "#table" %}} for clarification. An additional 1% extra credit may be awarded for exceptional class participation.
 
 ### Grading Scheme 1
 

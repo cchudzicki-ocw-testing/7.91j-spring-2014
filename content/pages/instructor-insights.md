@@ -37,7 +37,7 @@ Curriculum Information
 
 ### Prerequisites
 
-Students should have a strong background in either molecular biology or computer science. Depending on which course number the student enrolls in, there are {{< resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "different specific requirements" "#table" >}}.
+Students should have a strong background in either molecular biology or computer science. Depending on which course number the student enrolls in, there are {{% resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "different specific requirements" "#table" %}}.
 
 ### Requirements Satisfied
 
@@ -52,7 +52,7 @@ Every spring semester.
 Assessment
 ----------
 
-The different versions of this course have {{< resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "different grading schemes" "#grade" >}}. For example, this was the grading scheme for graduate students in biology, biological engineering, and health sciences & technology:
+The different versions of this course have {{% resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "different grading schemes" "#grade" %}}. For example, this was the grading scheme for graduate students in biology, biological engineering, and health sciences & technology:
 
 - 30% Problem sets
 - 48% Exams
@@ -92,5 +92,5 @@ Met once a week for 1 hour per session. Optional attendance.
 Out of Class
 ------------
 
-*   Work on {{< resource_link 215564a7-c7bc-a140-74c5-d9096008982b "assignments" >}} and the {{< resource_link 53ef1941-5287-4b4f-1e1e-3b94324eeb48 "project" >}}.
+*   Work on {{% resource_link 215564a7-c7bc-a140-74c5-d9096008982b "assignments" %}} and the {{% resource_link 53ef1941-5287-4b4f-1e1e-3b94324eeb48 "project" %}}.
 *   Study for the exams.
