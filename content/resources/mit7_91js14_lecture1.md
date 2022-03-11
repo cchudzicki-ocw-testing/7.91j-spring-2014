@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture1: Foundations of Computational and Systems Biology'
 uid: cd0757e3-1d7e-05bd-9fae-6154f71ba12f
+video_metadata:
+  youtube_id: null
 ---

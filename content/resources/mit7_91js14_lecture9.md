@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 9: Modeling and Discovery of Sequence Motifs'
 uid: 5b2e2890-7ea0-3966-09fd-2cbccd2dd462
+video_metadata:
+  youtube_id: null
 ---

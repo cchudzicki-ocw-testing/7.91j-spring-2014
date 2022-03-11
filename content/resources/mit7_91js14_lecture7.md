@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture7: ChIP-Seq analysis; DNA-protein interactions '
 uid: 53a07f80-af4d-4304-8443-44039d97775e
+video_metadata:
+  youtube_id: null
 ---

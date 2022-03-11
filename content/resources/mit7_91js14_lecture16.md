@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 16: Protein Interaction Networks'
 uid: 5ea46dd7-8900-dca6-66f2-0790f31d85a5
+video_metadata:
+  youtube_id: null
 ---

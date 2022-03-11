@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 215564a7-c7bc-a140-74c5-d9096008982b
+video_metadata:
+  youtube_id: null
 ---
 
 Five written or computer-based problem sets will be assigned. These are designed to promote deeper understanding of the principles and algorithms discussed in class and to provide hands-on experience with bioinformatics tools.

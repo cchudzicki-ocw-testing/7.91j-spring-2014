@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture8: RNA-sequence analysis: expression, isoforms '
 uid: 45a80bf1-9f88-d0ca-bfb0-91b4edbc0f36
+video_metadata:
+  youtube_id: null
 ---

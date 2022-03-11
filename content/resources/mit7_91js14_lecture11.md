@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: "Lecture 11: RNA Secondary Structure \u2013 Biological Functions and Prediction"
 uid: 0ede7c2c-d8c7-a11e-c91b-d37a1d4937d5
+video_metadata:
+  youtube_id: null
 ---

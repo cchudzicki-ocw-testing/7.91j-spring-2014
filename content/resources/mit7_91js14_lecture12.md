@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 12: Introduction to Protein Structure; Structure Comparison and Classification'
 uid: e41589e4-df27-f597-4d76-31183cf3962f
+video_metadata:
+  youtube_id: null
 ---

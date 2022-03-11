@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Tools
 uid: 4d56c5fd-ee8c-6f20-503a-a8eef0d89847
+video_metadata:
+  youtube_id: null
 ---
 
 Computational Biology Tools and Resources

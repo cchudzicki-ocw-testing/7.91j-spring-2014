@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: Problem_set_3.zip
 uid: 5b630b6d-e201-5aa2-770c-8f143c82cc6b
+video_metadata:
+  youtube_id: null
 ---

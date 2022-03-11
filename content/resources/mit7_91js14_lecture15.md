@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 15: Gene Regulatory Networks'
 uid: bfe8b1ce-4e57-d5ec-439d-07095ffaab18
+video_metadata:
+  youtube_id: null
 ---

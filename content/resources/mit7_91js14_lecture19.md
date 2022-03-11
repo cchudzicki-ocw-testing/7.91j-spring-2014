@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 19: Discovering Quantitative Trait Loci (QTLs)'
 uid: 1c9822b1-ee7f-0767-1143-4cb3212e7f6a
+video_metadata:
+  youtube_id: null
 ---

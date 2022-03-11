@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 1:Questions-Sequence search, global alignment, BLAST statistics
 uid: 79d76bd6-5651-d30b-985f-f0e0a26fd139
+video_metadata:
+  youtube_id: null
 ---

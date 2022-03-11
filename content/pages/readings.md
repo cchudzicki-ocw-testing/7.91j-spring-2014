@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 1f3d1984-e0db-6e25-65c7-313934369c19
+video_metadata:
+  youtube_id: null
 ---
 
 This textbook is recommended for the course:  

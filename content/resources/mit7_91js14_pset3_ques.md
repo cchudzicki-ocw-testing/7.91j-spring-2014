@@ -13,4 +13,6 @@ resourcetype: Document
 title: Problem Set 3:Questions- Gibbs Sampler, RNA secondary structure, Protein Structure
   with PyRosetta, Connections
 uid: 48f8912c-a444-44f2-e2ea-05845d89d6b9
+video_metadata:
+  youtube_id: null
 ---

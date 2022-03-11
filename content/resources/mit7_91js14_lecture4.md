@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture4: Comparative Genomics'
 uid: f00a4def-2b9e-0910-1482-5fa18eff4b0f
+video_metadata:
+  youtube_id: null
 ---

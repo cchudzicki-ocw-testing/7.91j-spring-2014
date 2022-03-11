@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture6: Genome Assembly '
 uid: e885f0eb-376e-a6c2-045e-b9d8847f106f
+video_metadata:
+  youtube_id: null
 ---

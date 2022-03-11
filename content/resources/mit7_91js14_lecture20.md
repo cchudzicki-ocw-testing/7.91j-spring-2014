@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 20: Human genetics, SNPs, and Genome Wide Associate Studies '
 uid: 92a4c627-f490-ff52-01a9-900aa4e55dec
+video_metadata:
+  youtube_id: null
 ---

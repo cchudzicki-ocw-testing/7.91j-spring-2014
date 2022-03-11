@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture2: Local Alignment (BLAST) and Statistics'
 uid: 82572f8d-7508-c4b8-6aa0-3c31879ed144
+video_metadata:
+  youtube_id: null
 ---

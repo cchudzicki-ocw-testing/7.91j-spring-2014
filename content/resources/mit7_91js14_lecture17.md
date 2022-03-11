@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 17: Logic Modeling of Cell Signaling Networks'
 uid: 0dde891c-be5a-fd71-3dd2-aad48633bf3c
+video_metadata:
+  youtube_id: null
 ---

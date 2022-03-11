@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 18: Analysis of Chromatin Structure'
 uid: c735f230-a3e4-b8b0-9d60-2422abf9664d
+video_metadata:
+  youtube_id: null
 ---

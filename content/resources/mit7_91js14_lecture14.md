@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 14: Predicting Protein Interactions '
 uid: d5493cb7-b216-56b1-51d3-e4bd67fc1473
+video_metadata:
+  youtube_id: null
 ---

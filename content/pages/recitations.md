@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Recitations
 uid: a8ee1ddc-6c16-9815-a0ec-c3e3d1235220
+video_metadata:
+  youtube_id: null
 ---
 
 7.36/7.91/20.390/20.490/6.802/HST.506 Recitation Slides

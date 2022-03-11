@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Project
 uid: 53ef1941-5287-4b4f-1e1e-3b94324eeb48
+video_metadata:
+  youtube_id: null
 ---
 
 Students in one of the graduate versions of this course will complete a computational biology research project. See the {{% resource_link fa95efc3-d3fe-cba9-9745-73504676f128 "table" "#table" %}} for clarification.

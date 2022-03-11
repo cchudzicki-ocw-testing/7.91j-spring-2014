@@ -13,4 +13,6 @@ resourcetype: Document
 title: Problem Set 2:Solutions- BWT, Library complexity, RNA-seq, Genome assembly,
   Motifs, Multiple hypothesis testing
 uid: 1aaddb5e-a395-6411-aede-ac520b5b5f4a
+video_metadata:
+  youtube_id: null
 ---

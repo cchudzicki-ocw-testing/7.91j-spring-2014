@@ -13,4 +13,6 @@ resourcetype: Document
 title: Problem Set 4:Solution- Bayesian Networks, Refining Protein Structures in PyRosetta,
   Mutual information of protein residues
 uid: 1c3d6924-535a-d1a9-6120-884d5c6095da
+video_metadata:
+  youtube_id: null
 ---

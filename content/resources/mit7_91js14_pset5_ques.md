@@ -13,4 +13,6 @@ resourcetype: Document
 title: Problem Set 5:Questions- Network Statistics, Chromatin Structure, Heritability,
   Association Testing
 uid: 2d2b431c-e6ad-f9cb-64c9-fa91768405ef
+video_metadata:
+  youtube_id: null
 ---

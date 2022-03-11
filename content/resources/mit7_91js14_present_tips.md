@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Presentation Tips
 uid: 73921058-1c47-ea8e-629b-b79bcb2ff2a9
+video_metadata:
+  youtube_id: null
 ---

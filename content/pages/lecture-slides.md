@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Slides
 uid: e46d1b6b-e6b2-fff3-aee2-1fc3b36646ba
+video_metadata:
+  youtube_id: null
 ---
 
 Lecturer Key

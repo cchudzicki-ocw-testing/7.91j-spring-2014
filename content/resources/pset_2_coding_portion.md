@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: pset_2_coding_portion.zip
 uid: e21d64c2-5ea9-bddb-3b0f-3f6fba5b3c57
+video_metadata:
+  youtube_id: null
 ---

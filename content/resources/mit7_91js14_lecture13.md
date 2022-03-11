@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 13: Predicting Protein Structure '
 uid: 30cc3343-57c3-64c0-c51c-5d261c409bbf
+video_metadata:
+  youtube_id: null
 ---

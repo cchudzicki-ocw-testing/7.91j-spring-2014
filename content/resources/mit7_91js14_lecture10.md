@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 10: Markov and Hidden Markov Models of Genomic and Protein Features'
 uid: 613e7bd5-b9e8-3a80-5d32-cde2ce585e76
+video_metadata:
+  youtube_id: null
 ---

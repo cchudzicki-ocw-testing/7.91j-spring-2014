@@ -14,4 +14,6 @@ parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 7-91_classroom-2.jpg
 uid: 274b4168-2a63-d464-e0d1-a55898146713
+video_metadata:
+  youtube_id: null
 ---

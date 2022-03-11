@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: fa95efc3-d3fe-cba9-9745-73504676f128
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meetings Times
@@ -92,13 +94,13 @@ Biology
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -125,13 +127,13 @@ No
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -161,13 +163,13 @@ Biological Engineering
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -194,13 +196,13 @@ No
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -230,7 +232,7 @@ Electrical Engineering and Computer Science
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -239,7 +241,7 @@ Undergraduate
  
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Optional; review of lectures
@@ -263,7 +265,7 @@ No
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -272,7 +274,7 @@ Graduate
  
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Required; cover additional material related to artificial intelligence
@@ -299,7 +301,7 @@ HST.506
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -308,7 +310,7 @@ Graduate
  
 {{< tdclose >}}
 {{< tdopen >}}
-![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Optional; review of lectures
