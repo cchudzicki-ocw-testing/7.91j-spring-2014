@@ -94,13 +94,13 @@ Biology
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -127,13 +127,13 @@ No
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -163,13 +163,13 @@ Biological Engineering
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -196,13 +196,13 @@ No
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -232,7 +232,7 @@ Electrical Engineering and Computer Science
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -241,7 +241,7 @@ Undergraduate
  
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Optional; review of lectures
@@ -265,7 +265,7 @@ No
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -274,7 +274,7 @@ Graduate
  
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 731d0a25-3e6f-432e-6dd0-2368c19d7af0 "Agree_2.jpg" >}}
+{{< resource "731d0a25-3e6f-432e-6dd0-2368c19d7af0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Required; cover additional material related to artificial intelligence
@@ -301,7 +301,7 @@ HST.506
 Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -310,7 +310,7 @@ Graduate
  
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource 5047e5cd-f575-d539-f025-3d7f71ba0ff6 "Agree.jpg" >}}
+{{< resource "5047e5cd-f575-d539-f025-3d7f71ba0ff6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Optional; review of lectures
