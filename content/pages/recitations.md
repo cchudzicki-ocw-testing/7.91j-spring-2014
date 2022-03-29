@@ -128,7 +128,7 @@ R10
 R11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c25d17e9-8774-ea0b-c6c0-f68ede5dc336 "Review of topics covered in Lecture 18 (PDF - 1.9MB)" %}}
+{{% resource_link c25d17e9-8774-ea0b-c6c0-f68ede5dc336 "Review of topics covered in Lecture 18 (PDF - 1.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +137,7 @@ R11
 R12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link eb15b2fc-04f1-d5b3-0b46-656186c6067e "Review of topics covered in Lectures 19 and 20 (PDF - 1.8MB)" %}}
+{{% resource_link eb15b2fc-04f1-d5b3-0b46-656186c6067e "Review of topics covered in Lectures 19 and 20 (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

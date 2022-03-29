@@ -134,7 +134,7 @@ DG
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 45a80bf1-9f88-d0ca-bfb0-91b4edbc0f36 "RNA-sequence Analysis: Expression, Isoforms (PDF - 2.9MB)" %}}
+{{% resource_link 45a80bf1-9f88-d0ca-bfb0-91b4edbc0f36 "RNA-sequence Analysis: Expression, Isoforms (PDF - 2.9MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DG
