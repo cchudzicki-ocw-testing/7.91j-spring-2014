@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This guest lecture by Prof. Ron Weiss is on synthetic biology. Prof. Weiss describes how he came to be a synthetic biologist, followed by an overview of the field. He covers basic , technologies for scalability, and programmable therapeutics.
 
 **Instructor:** Prof. Ron Weiss
+

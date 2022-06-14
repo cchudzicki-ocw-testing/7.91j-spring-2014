@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Burge discusses global sequence alignment and gapped local sequence alignment. He later talks about substitution matrices for protein comparison.
 
 **Instructor:** Christopher Burge
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture on predicting protein structure covers refining a partially correct structure. Methods include energy minimization, molecular dynamics, and simulated annealing. He moves on to methods for predicting structure from a sequence of amino acid.
 
 **Instructor:** Prof. Ernest Fraenkel
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding genome assembly.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/e885f0eb376ea6c2045eb9d8847f106f_MIT7_91JS14_Lecture6.pdf
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/e885f0eb376ea6c2045eb9d8847f106f_MIT7_91JS14_Lecture6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -15,3 +15,4 @@ uid: e885f0eb-376e-a6c2-045e-b9d8847f106f
 video_metadata:
   youtube_id: null
 ---
+This file contains the information regarding genome assembly.

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Professors Burge, Gifford, and Fraenkel give an historical overview of the field of computational and systems biology, as well as outline the material they plan to cover throughout the semester.
 
 **Instructor:** Christopher Burge, David Gifford and Ernest Fraenkel
+

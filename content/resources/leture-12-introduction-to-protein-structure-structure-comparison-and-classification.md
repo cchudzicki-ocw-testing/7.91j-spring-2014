@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Professor Ernest Fraenkel begins his unit of the course, which moves across scales, from atoms to proteins to networks. This lecture is about the structure of proteins, and how biological phenomena make sense in light of protein structure.
 
 **Instructor:** Prof. Ernest Fraenkel
+

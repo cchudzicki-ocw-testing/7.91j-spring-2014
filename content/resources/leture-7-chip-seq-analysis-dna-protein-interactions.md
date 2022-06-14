@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Prof. David Gifford discusses transcriptional regulation. He talks about techniques that can elucidate how genes are regulated, and how gene regulators interact with the genome.
 
 **Instructor:** Prof. David Gifford
+

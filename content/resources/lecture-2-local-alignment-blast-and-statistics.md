@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Professor Burge reviews classical and next-generation sequencing. He then introduces local alignment (BLAST) and some of the associated statistics.
 
 **Instructor:** Christopher Burge
+

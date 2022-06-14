@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Prof. Christopher Burge begins by reviewing Lecture 9, then begins his lecture on hidden Markov models (HMM) of genomic and protein features. He addresses the terminology and applications of HMMs, the Viterbi algorithm, and then gives a few examples.
 
 **Instructor:** Prof. Christopher Burge
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Lecture 11 is about RNA secondary structure.  Prof. Christopher Burge begins with an introduction and biological examples of RNA structure. He then talks about two approaches for predicting structure: covariation and energy minimization.
 
 **Instructor:** Prof. Christopher Burge
+

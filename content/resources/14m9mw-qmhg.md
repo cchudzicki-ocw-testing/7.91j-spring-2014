@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/fc1af27ee80b09baf5a19807f9052f9a_14m9MW-qMhg.srt
+file: /courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/fc1af27ee80b09baf5a19807f9052f9a_14m9MW-qMhg.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
