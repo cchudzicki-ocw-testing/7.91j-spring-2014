@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course, solutions,
+  and information on grading, late assignments, and collaboration on problem sets.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

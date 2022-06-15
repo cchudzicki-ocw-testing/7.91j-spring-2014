@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the slides used during optional recitation sections
+  for the course.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

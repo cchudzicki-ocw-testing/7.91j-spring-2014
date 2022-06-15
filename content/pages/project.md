@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the computational biology research project
+  required for the graduate versions of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Project

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains links to tools and web resources that visitors
+  may find helpful in their study of computational and systems biology.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
